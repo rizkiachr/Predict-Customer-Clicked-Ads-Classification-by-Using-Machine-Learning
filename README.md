@@ -1,5 +1,5 @@
 # Predict-Customer-Clicked-Ads-Classification-by-Using-Machine-Learning
-Berisi salah satu mini project dengan Rakamin Academy mengenai efektivitis sebuah iklan. Pada kesempatan saya akan melakukan pemodelan machine learning, untuk memprediksi potential user dalam digital advertising. Hal ini penting untuk meningkatkan efektivitas advertising, terutama bagi mereka yang bergerak di bidang advertising consultant. 
+Berisi salah satu mini project saya dengan Rakamin Academy mengenai efektivitis sebuah iklan. Pada kesempatan ini, saya akan melakukan pemodelan machine learning untuk memprediksi potential user dalam digital advertising. Hal ini penting untuk meningkatkan efektivitas advertising, terutama bagi mereka yang bergerak di bidang advertising consultant. 
 
 ## Problem
 Tim bisnis ingin mengoptimalkan metode beriklan mereka di platform digital agar mendapatkan user yang potential untuk click sebuah product, supaya cost yang dikeluarkan tidak terlalu besar. **Kondisi saat ini ialah, convertion rate iklan hanya sebesar 50%**. Hal ini berarti, dari 1000 user yang melihat iklan hanya 500 diantaranya yang memutuskan untuk click iklan tersebut.
